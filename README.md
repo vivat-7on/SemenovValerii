@@ -15,7 +15,7 @@ Hi 👋 My name is Valerii
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/vivat7on" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+<p align="left">
   <a href="https://t.me/vivat7on" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/telegram/239ED9" width="32" height="32" alt="Telegram"/>
   </a>
